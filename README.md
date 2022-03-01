@@ -46,4 +46,4 @@ I implemented the game with Java language using Intellij IDEA Ultimate IDE, usin
 * Press 'Space' to re-enter the game.
 
 ## Simulation
-![Arkanoid GIF](https://user-images.githubusercontent.com/58342591/129721598-06b924f3-4489-45d3-8f63-75ac38a94ed0.gif)
+[Arkanoid GIF]
