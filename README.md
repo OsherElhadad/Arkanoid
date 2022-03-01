@@ -44,6 +44,3 @@ I implemented the game with Java language using Intellij IDEA Ultimate IDE, usin
 * Use the 'Left' and 'Right' arrows to control the paddle. 
 * Press 'p' to pause.
 * Press 'Space' to re-enter the game.
-
-## Simulation
-[Arkanoid GIF]
