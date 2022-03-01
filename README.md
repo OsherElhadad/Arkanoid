@@ -3,7 +3,6 @@
 2. [Dependencies](#dependencies)  
 3. [Installation](#Installation)
 4. [instructions](#instructions)
-5. [Simulation](#simulation)
 
 
 ## About
