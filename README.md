@@ -1,4 +1,8 @@
 # Arkanoid!
+
+![Levels](https://raw.githubusercontent.com/GalYehezkel/Arkanoid-game/master/images/levels.png)
+
+
 1. [About](#About)
 2. [Dependencies](#dependencies)  
 3. [Installation](#Installation)
